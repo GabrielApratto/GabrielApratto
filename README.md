@@ -7,4 +7,5 @@ Olá, me chamo Gabriel!
 - ⚡ Fato curioso: desenvolvi um sistema simples 100% em python somente para automatizar uma operação no meu trabalho
 
   🛠️ Tecnologias e Ferramentas
-  <img src="https://www.vecteezy.com/png/27127463-javascript-logo-png-javascript-icon-transparent-png" width="40" height="40" alt="PHP" />
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/9d13d1b7-dd45-41cc-ab36-8933d1d0e716" />
+
